@@ -1,11 +1,10 @@
 # WorldQuant-University
 
 ## Applied Data Science Lab
-
-### Task 1.1 
+ 
 The DS Lab contains eight, end-to-end data science projects. The DSS lab gave me foundations in all key areas of DS, programming and Python, working with databases, data wrangling, building machine learned models, using statistics and data visualization and deploying models into production.
 
-### Projects
+### Task 1.1
 
 1. Housing in Mexico
 2. Apartment prices in Buenos Aires
